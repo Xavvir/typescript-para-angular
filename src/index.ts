@@ -1,3 +1,0 @@
-type heroi={
-    name:
-}
