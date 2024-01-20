@@ -1,0 +1,3 @@
+type heroi={
+    name:
+}
